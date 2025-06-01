@@ -153,17 +153,6 @@ void message2() {
 
 ---
 
-## 🔄 Circuit Diagram
-
-> 📁 **Add the circuit diagram image to your repo**
-> File Name: `circuit_diagram.png`
-
-![Circuit Diagram](circuit_diagram.png)
-
-**Tip:** You can draw your circuit using tools like [Fritzing](http://fritzing.org/) or [Tinkercad Circuits](https://www.tinkercad.com/).
-
----
-
 ## ✅ Final Output
 
 * **Electric shock** is produced using the stun gun
