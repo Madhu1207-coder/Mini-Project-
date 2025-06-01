@@ -35,6 +35,8 @@ Upon activation (via button press or sound detection), the device:
 * Activates a **buzzer alarm**
 
 ---
+[Architecture Diagram](
+https://github.com/Madhu1207-coder/Mini-Project-/blob/main/mini%20project/architecture%20diagram%20.jpg!)
 
 ## 🧩 Modules
 
