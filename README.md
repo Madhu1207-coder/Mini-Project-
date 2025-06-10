@@ -6,6 +6,10 @@ An advanced personal safety device integrating a **stun gun mechanism** with a *
 
 This mini project demonstrates the integration of hardware and software components to create a compact, portable **self-defense tool**. When activated, it emits a **high-voltage spark** to incapacitate an attacker and simultaneously sends an **emergency alert SMS with the user's live location** to predefined contacts.
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5e/59/f6/5e59f6475951584c42ff751e8d748f66.gif" width="300" alt="Thank You" />
+</p>
+
 ### 🧠 Guided By:
 
 **Dr. P. Visu**
@@ -198,6 +202,11 @@ void message2() {
 * Integrate fingerprint authentication
 * App integration for live monitoring
 * Water-resistant wearable design
+
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a2418f60390643.5a4b910e63f83.gif" width="300" alt="Thank You" />
+</p>
 
 ---
 
