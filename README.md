@@ -35,7 +35,7 @@ Upon activation (via button press or sound detection), the device:
 * Activates a **buzzer alarm**
 
 ---
-[Architecture Diagram](https://github.com/Madhu1207-coder/Mini-Project-/blob/main/mini%20project/architecture%20diagram%20.jpg)
+
 
 ## 🧩 Modules
 
@@ -62,6 +62,36 @@ Upon activation (via button press or sound detection), the device:
 * Controlled by ATmega328P microcontroller
 
 ---
+
+<h3>📊 Project Visuals</h3>
+
+<table>
+  <tr>
+    <td><strong>Architecture Diagram</strong></td>
+    <td><strong>Module 1</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Madhu1207-coder/Mini-Project-/raw/main/mini%20project/architecture%20diagram%20.jpg" width="300"/></td>
+    <td><img src="https://github.com/Madhu1207-coder/Mini-Project-/raw/main/mini%20project/module%201.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td><strong>Module 3</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Madhu1207-coder/Mini-Project-/raw/main/mini%20project/module%202.jpg" width="300"/></td>
+    <td><img src="https://github.com/Madhu1207-coder/Mini-Project-/raw/main/mini%20project/module%203.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Final Output</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/Madhu1207-coder/Mini-Project-/raw/main/mini%20project/final%20output%20.jpg" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Technologies & Tools
 
