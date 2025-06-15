@@ -195,13 +195,28 @@ void message2() {
 * **Activated via** buzzer or sound detection
 * Tested with successful performance
 
----
+
+📺 Output / Demo
+<p align="center"> <a href="https://www.youtube.com/watch?v=JjaLhauURnI" target="_blank"> <img src="https://img.youtube.com/vi/JjaLhauURnI/0.jpg" alt="Watch the Demo" width="70%"> </a> </p> <p align="center"><strong>🎮 Click the image above to watch the gameplay demo on YouTube</strong></p>
+
 
 ## 💡 Future Improvements
 
 * Integrate fingerprint authentication
 * App integration for live monitoring
 * Water-resistant wearable design
+
+
+
+### 🧑‍💻 Contributor
+
+| 👤 Name          | 🔗 Links                                                                                                                                                  | 💼 Role                    |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| **Madhumitha B** | [GitHub](https://github.com/Madhu1207-coder) ・ [LinkedIn](https://www.linkedin.com/in/madhumitha-b-a545a525b) ・ [Email](mailto:madhumithab1207@gmail.com) | 👩‍💻 Developer / Designer |
+
+> 💡 *Feel free to add co-contributors if it's a team project.*
+
+!
 
 
 <p align="center">
